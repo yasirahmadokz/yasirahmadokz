@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Yasir Ahmad Orakzai
+- 👀 I’m interested in YouTube, Blogging, Freelancing, advertising and coding ...
+- 🌱 I’m currently learning programming ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+**Facebook**  https://www.facebook.com/YasirAhmadOkz/
+**Twitter**   https://www.twitter.com/YasirAhmadOkz/
+**Instagram** https://www.facebook.com/YasirAhmadOkz/
+**YouTube**   https://www.youtube.com/YasirAhmadOkz/
+<!---
+yasirahmadokz/yasirahmadokz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
